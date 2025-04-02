@@ -1,2 +1,2 @@
 # Pitch-Effectiveness-
-I collected team data to analyze trends for pitchers and their pitch effectiveness.
+I collected team data to analyze trends for pitchers and their pitch effectiveness. The R Markdown file gives me contact rate and strikeout rate for certain pitches when the batter has two strikes on them. It let's me know what pitches are strikeout effective and which ones get hit in play. This is mainly for the pitching coach so they can see where our pitchers are effective with 2 strikes.
